@@ -1,0 +1,20 @@
+Crud-React-Mysql
+Primeiros passos
+
+git config --global user.name hailtonDavid  
+git config --global user.email hailton.david@gmail.com
+
+echo "# Crud-React-Mysql" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/hailtonDavid/Crud-React-Mysql.git
+git push -u origin main
+
+Próximos passos
+
+git add .
+git commit -m "Second commit"
+git push
+
